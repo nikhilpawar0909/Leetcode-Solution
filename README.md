@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0182-duplicate-emails/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
