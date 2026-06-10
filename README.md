@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0371-sum-of-two-integers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
