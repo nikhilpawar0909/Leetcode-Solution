@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1952-three-divisors](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1952-three-divisors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
