@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0242-valid-anagram/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
