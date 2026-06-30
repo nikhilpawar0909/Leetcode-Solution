@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3110-score-of-a-string](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nikhilpawar0909/Leetcode-Solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Prefix Sum
